@@ -1,0 +1,473 @@
+{
+  "factura": "Makro Supermayorista S.A.S",
+  "fecha": "20/08/2026",
+  "total_productos": 93,
+  "moneda": "COP",
+  "productos": [
+    {
+      "nombre": "CEBOLLA JUNCA MA",
+      "peso": null,
+      "costo": 6350
+    },
+    {
+      "nombre": "MANZANA VERDE BA",
+      "peso": null,
+      "costo": 12750
+    },
+    {
+      "nombre": "LECHUGA VERDE CR",
+      "peso": null,
+      "costo": 4000
+    },
+    {
+      "nombre": "KIWI ESTUCHE 1kg",
+      "peso": "1kg",
+      "costo": 16650
+    },
+    {
+      "nombre": "RUGULA BANDEJA 1",
+      "peso": null,
+      "costo": 6950
+    },
+    {
+      "nombre": "PAPA CRIOLLA PAQ",
+      "peso": null,
+      "costo": 2500
+    },
+    {
+      "nombre": "CILANTRO PQ 200g",
+      "peso": "200g",
+      "costo": 6460
+    },
+    {
+      "nombre": "MANZANA ROJA BJA",
+      "peso": null,
+      "costo": 12950
+    },
+    {
+      "nombre": "TOMATE CHONTO kg",
+      "peso": "0.760 kg",
+      "costo": 6840
+    },
+    {
+      "nombre": "ARANDANOS ESTUCH",
+      "peso": null,
+      "costo": 28250
+    },
+    {
+      "nombre": "PEPINO COHOMBRO",
+      "peso": null,
+      "costo": 2500
+    },
+    {
+      "nombre": "ROSQUITAS YUCA B",
+      "peso": null,
+      "costo": 14400
+    },
+    {
+      "nombre": "PIMENTON PAQUETE",
+      "peso": null,
+      "costo": 2500
+    },
+    {
+      "nombre": "ZANAHORIA PAQUET",
+      "peso": null,
+      "costo": 2500
+    },
+    {
+      "nombre": "TORTILLA BIMBO T",
+      "peso": null,
+      "costo": 17390
+    },
+    {
+      "nombre": "CEBOLLA CABEZONA",
+      "peso": "0.320 kg",
+      "costo": 3296
+    },
+    {
+      "nombre": "AHUYAMA ZACATA K",
+      "peso": "0.760 kg",
+      "costo": 5700
+    },
+    {
+      "nombre": "CABEZONA BLANCA",
+      "peso": null,
+      "costo": 2500
+    },
+    {
+      "nombre": "QUESO DOBLECREMA",
+      "peso": null,
+      "costo": 38700
+    },
+    {
+      "nombre": "SALCHICHA ZENU 4",
+      "peso": null,
+      "costo": 19190
+    },
+    {
+      "nombre": "CEREAL CORN FLAK",
+      "peso": null,
+      "costo": 17190
+    },
+    {
+      "nombre": "YOX MULTIS SN AZ",
+      "peso": null,
+      "costo": 20600
+    },
+    {
+      "nombre": "SUERO COSTEÑO KL",
+      "peso": null,
+      "costo": 11700
+    },
+    {
+      "nombre": "BON YURT SURTIDO",
+      "peso": null,
+      "costo": 32090
+    },
+    {
+      "nombre": "CERVEZA CORONITA",
+      "peso": null,
+      "costo": 17200
+    },
+    {
+      "nombre": "MANTEQUILLA COLA",
+      "peso": null,
+      "costo": 15500
+    },
+    {
+      "nombre": "QUESITO ALPINA 1",
+      "peso": null,
+      "costo": 5390
+    },
+    {
+      "nombre": "YOGURT ALPINA SU",
+      "peso": null,
+      "costo": 14050
+    },
+    {
+      "nombre": "KOKORISAURIOS 40",
+      "peso": null,
+      "costo": 25000
+    },
+    {
+      "nombre": "CAFE OMA MOLIDO",
+      "peso": null,
+      "costo": 31450
+    },
+    {
+      "nombre": "EMPANADA ARO POL",
+      "peso": null,
+      "costo": 20500
+    },
+    {
+      "nombre": "EMPANADA ARO POL",
+      "peso": null,
+      "costo": 13900
+    },
+    {
+      "nombre": "YOGUR GRIEG CAMA",
+      "peso": null,
+      "costo": 5900
+    },
+    {
+      "nombre": "CHOCORMO ESQUINA",
+      "peso": null,
+      "costo": 14050
+    },
+    {
+      "nombre": "GLIT GULLON DIET",
+      "peso": null,
+      "costo": 15600
+    },
+    {
+      "nombre": "BROWNIE MRBROWN",
+      "peso": null,
+      "costo": 13000
+    },
+    {
+      "nombre": "GALL CHIPS AHOY",
+      "peso": null,
+      "costo": 9200
+    },
+    {
+      "nombre": "SERVILLETA FAMIL",
+      "peso": null,
+      "costo": 3000
+    },
+    {
+      "nombre": "MEZCLA AUNT JEMI",
+      "peso": null,
+      "costo": 13800
+    },
+    {
+      "nombre": "CREM DE LECH NES",
+      "peso": null,
+      "costo": 7050
+    },
+    {
+      "nombre": "HARINA PAN MAIZ",
+      "peso": null,
+      "costo": 3500
+    },
+    {
+      "nombre": "MEZCLA PAN MAIZ",
+      "peso": null,
+      "costo": 9190
+    },
+    {
+      "nombre": "HARINA DE MAIZ P",
+      "peso": null,
+      "costo": 3300
+    },
+    {
+      "nombre": "LOMOS ATUN ZENU",
+      "peso": null,
+      "costo": 21650
+    },
+    {
+      "nombre": "CEREAL FRODT LOO",
+      "peso": null,
+      "costo": 27790
+    },
+    {
+      "nombre": "PAPAS ANCES DELI",
+      "peso": null,
+      "costo": 7100
+    },
+    {
+      "nombre": "TOSTADITAS SANIS",
+      "peso": "1 Dto. Volumen: $541",
+      "costo": 12600
+    },
+    {
+      "nombre": "PLATANO NATUCHIP",
+      "peso": null,
+      "costo": 8450
+    },
+    {
+      "nombre": "TOSTADA ARROZ SA",
+      "peso": null,
+      "costo": 7290
+    },
+    {
+      "nombre": "VINO ESPUMO JP C",
+      "peso": null,
+      "costo": 77550
+    },
+    {
+      "nombre": "NATUMALTA PET 20",
+      "peso": null,
+      "costo": 9000
+    },
+    {
+      "nombre": "HATSU SURTIDO CA",
+      "peso": null,
+      "costo": 18350
+    },
+    {
+      "nombre": "AVENA ALPINA ORI",
+      "peso": null,
+      "costo": 10600
+    },
+    {
+      "nombre": "GASEO COCACOLA Z",
+      "peso": null,
+      "costo": 17900
+    },
+    {
+      "nombre": "LECHE ALPINA DEL",
+      "peso": null,
+      "costo": 8200
+    },
+    {
+      "nombre": "LCHE ALQUERIA OR",
+      "peso": null,
+      "costo": 34800
+    },
+    {
+      "nombre": "LV LO BLANCOX LO",
+      "peso": null,
+      "costo": 16360
+    },
+    {
+      "nombre": "ACEITE PREMIER G",
+      "peso": null,
+      "costo": 19600
+    },
+    {
+      "nombre": "AGUA OXIGENADA O",
+      "peso": null,
+      "costo": 3100
+    },
+    {
+      "nombre": "CRN DNTL ORAL B",
+      "peso": "1 Dto. Volumen: $1.823",
+      "costo": 15450
+    },
+    {
+      "nombre": "ARROZ ROA FORTIP",
+      "peso": null,
+      "costo": 11700
+    },
+    {
+      "nombre": "MAYONESA FRUCO H",
+      "peso": null,
+      "costo": 19590
+    },
+    {
+      "nombre": "SALSA TOMATE FR",
+      "peso": null,
+      "costo": 15590
+    },
+    {
+      "nombre": "DESO REXONA BARR",
+      "peso": null,
+      "costo": 24510
+    },
+    {
+      "nombre": "MON AFEITAR GILL",
+      "peso": null,
+      "costo": 13150
+    },
+    {
+      "nombre": "SHAM950+BALS470+",
+      "peso": null,
+      "costo": 47400
+    },
+    {
+      "nombre": "MOLIDA ESPECIAL",
+      "peso": "0.512 kg",
+      "costo": 14285
+    },
+    {
+      "nombre": "SOBREBARRIGA DEL",
+      "peso": null,
+      "costo": 21100
+    },
+    {
+      "nombre": "MOLIDA ESPECIAL",
+      "peso": "0.498 kg",
+      "costo": 13894
+    },
+    {
+      "nombre": "MOLIDA ESPECIAL",
+      "peso": "0.504 kg",
+      "costo": 14062
+    },
+    {
+      "nombre": "REMOLACHA kg",
+      "peso": "0.480 kg",
+      "costo": 2688
+    },
+    {
+      "nombre": "MOSTAZA BARY DOY",
+      "peso": null,
+      "costo": 6750
+    },
+    {
+      "nombre": "MUSLO CON PIEL A",
+      "peso": "1.664 kg",
+      "costo": 21466
+    },
+    {
+      "nombre": "PECHUGA CON PIEL",
+      "peso": "2.072 kg",
+      "costo": 34499
+    },
+    {
+      "nombre": "ALA SIN COSTILLA",
+      "peso": "0.890 kg",
+      "costo": 9968
+    },
+    {
+      "nombre": "CONTRAMUSLO CON",
+      "peso": "1.974 kg",
+      "costo": 22602
+    },
+    {
+      "nombre": "Asar Fina De Res",
+      "peso": "2.190 kg",
+      "costo": 76212
+    },
+    {
+      "nombre": "Murillo/Lagarto/",
+      "peso": "1.066 kg",
+      "costo": 25371
+    },
+    {
+      "nombre": "JAB DERSA LIQUIR",
+      "peso": null,
+      "costo": 25900
+    },
+    {
+      "nombre": "LIMPIAD BETSBOL",
+      "peso": null,
+      "costo": 19500
+    },
+    {
+      "nombre": "VINAGRE BLANCO A",
+      "peso": null,
+      "costo": 2900
+    },
+    {
+      "nombre": "PASTA MONTICELLO",
+      "peso": null,
+      "costo": 13300
+    },
+    {
+      "nombre": "BICARBONATO BOLS",
+      "peso": null,
+      "costo": 1400
+    },
+    {
+      "nombre": "SH SAVITAL 510ml",
+      "peso": "510ml",
+      "costo": 34650
+    },
+    {
+      "nombre": "PASTA DORIA RAVI",
+      "peso": null,
+      "costo": 11100
+    },
+    {
+      "nombre": "LIMON TAHITI PAQ",
+      "peso": null,
+      "costo": 5000
+    },
+    {
+      "nombre": "BANANO GRAPEJ L",
+      "peso": "3.065 kg",
+      "costo": 14106
+    },
+    {
+      "nombre": "PAN BIMBO ARTESA",
+      "peso": null,
+      "costo": 8750
+    },
+    {
+      "nombre": "PLATANO BOLSA 3k",
+      "peso": "3k",
+      "costo": 22500
+    },
+    {
+      "nombre": "PAN TAJADO BIMBO",
+      "peso": null,
+      "costo": 7050
+    },
+    {
+      "nombre": "PAPA PASTUSA LAV",
+      "peso": null,
+      "costo": 9800
+    },
+    {
+      "nombre": "PAN PERRO BIMBO",
+      "peso": null,
+      "costo": 4000
+    },
+    {
+      "nombre": "PAPEL HIGI ARO T",
+      "peso": null,
+      "costo": 20950
+    }
+  ]
+}
